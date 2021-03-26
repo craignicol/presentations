@@ -1,8 +1,8 @@
 # Presentations
 
-* Scottish Developers : No MOre Secrets (PKCE)
+* Scottish Developers : [No More Secrets (PKCE)](no-more-secrets.html)
 
 ## Dedicated repos
 
-* CosmosDb
-* Codecraft guided talks
+* [CosmosDb](/craignicol/cosmosdb-presentation)
+* [Codecraft guided talks](craignicol/codecraftuk-sessions)
