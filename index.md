@@ -1,6 +1,6 @@
 # Presentations
 
-* Scottish Developers : [No More Secrets (PKCE)](no-more-secrets.html)
+* Scottish Developers : [No More Secrets (PKCE)](no-more-secrets/no-more-secrets.html)
 
 ## Dedicated repos
 
